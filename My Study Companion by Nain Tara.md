@@ -1,10 +1,10 @@
-# **My Study Companion - AI-based Assistant for PIAIC Students**
+# **My Study Companion - Hugging Face AI-based Assistant for PIAIC Students**
 
 # Introduction
 
 "My Study Companion" is an AI-powered educational assistant designed to support PIAIC students with programming, artificial intelligence, and related coursework. This project offers a free alternative to those who cannot afford a GPT Plus subscription, providing real-time learning support.
 
-Here’s the link of Huggging face assistant: <https://hf.co/chat/assistant/66dcc989ca44e713ca243600>
+Here’s the link of Hugging face assistant: <https://hf.co/chat/assistant/66dcc989ca44e713ca243600>
 
 # Motivation
 
@@ -207,7 +207,23 @@ Hugging Face offers 07 models to create your assistant free of cost:
 
 7\. microsoft/Phi-3-mini-4k-instruct
 
-You can read model details and then apply that specific model into your project.
+You can read model details and apply that specific model to your project.
+
+### Toggle button: Right side of a model name you will see a toggle button in which you have four options:
+
+**1. Temperature:**
+Controls creativity, higher values allow more variety
+
+**2. Top P:**
+Sets word choice boundaries, lower values tighten the focus.
+
+**3. Repetition penalty:** 
+Prevents reuse, and higher values decrease repetition.
+
+**4. Top K:**
+Restricts word options, and lower values for predictability.
+
+**Note:** You can modify these options or leave them by default, it depends on your project.
 
 ## Step 5: Internet Access Options:
 
