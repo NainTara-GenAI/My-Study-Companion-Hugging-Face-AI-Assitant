@@ -249,4 +249,3 @@ This project was created by **Nain Tara**, inspired by Sir Ameen Alam’s custom
 
 Note: Since Hugging Face Assistant is in its beta phase (released in February 2024), you might occasionally experience technical glitches or server downtime. However, this is a great opportunity to explore an evolving platform and be part of its improvement journey without any charges or subscriptions! These moments provide valuable problem-solving experience, and Hugging Face is constantly working on updates, so trying again after a short break usually resolves the issues. Enjoy the cutting-edge tools it offers!
 
->   **License:** **This project is licensed under the MIT License.**
