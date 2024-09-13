@@ -4,7 +4,7 @@
 
 "My Study Companion" is an AI-powered educational assistant designed to support PIAIC students with programming, artificial intelligence, and related coursework. This project offers a free alternative to those who cannot afford a GPT Plus subscription, providing real-time learning support.
 
-Here’s the link: <https://hf.co/chat/assistant/66dcc989ca44e713ca243600>
+Here’s the link of Huggging face assistant: <https://hf.co/chat/assistant/66dcc989ca44e713ca243600>
 
 # Motivation
 
@@ -170,6 +170,12 @@ Attention to Detail and Hard Work: Keep consistent; technical skills can be lear
 5.  Finalize the Project: Complete your assistant after refinement.
 
 # Steps to Create an Assistant on Hugging Face:
+
+**Create an Account:** Go to Hugging Face https://huggingface.co/ and create an account if you don't already have one.
+
+**Access Assistant Creation:** After logging in, click on this link https://huggingface.co/chat/settings/assistants/new to start creating a new assistant.
+
+**Follow the Steps:** Follow the on-screen instructions to set up your new assistant.
 
 ## Step 1: Create an Avatar:
 
